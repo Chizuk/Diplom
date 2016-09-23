@@ -1,0 +1,19 @@
+#Header{
+	height:60px ;
+	width:1340px ;
+	background-color:black;
+	margin:auto;
+}
+#Footer{
+	height:60px ;
+	width:1340px ;
+	background-color:black;
+	margin:auto;
+	margin-bottom:0px;
+}
+
+#myCanvas{
+	width:350px;
+	height:400px;
+	
+}
